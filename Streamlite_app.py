@@ -493,8 +493,6 @@ elif menu == "🛡 Keselamatan Kerja (K3)":
 
     st.markdown("""
     ---
-
----
 ## 🛡 Prinsip Umum Keselamatan
 
 🔸 Kenali bahan kimia sebelum digunakan (baca label & MSDS)  
