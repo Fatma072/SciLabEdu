@@ -494,12 +494,6 @@ elif menu == "🛡 Keselamatan Kerja (K3)":
     st.markdown("""
     ---
 
-## 📚 Pendahuluan
-Keselamatan kerja 🔒 di laboratorium adalah hal yang sangat penting untuk:
-- 🛑 Menghindari kecelakaan
-- ⚠ Mengurangi risiko paparan bahan berbahaya
-- 👨‍🔬 Menciptakan lingkungan kerja yang aman dan tertib
-
 ---
 ## 🛡 Prinsip Umum Keselamatan
 
